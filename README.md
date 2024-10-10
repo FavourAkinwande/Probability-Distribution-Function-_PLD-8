@@ -1,4 +1,4 @@
-**Exponential Distribution Project**
+**Exponential Distribution**
 
 This project demonstrates the Exponential Distribution, a continuous probability distribution commonly used to model the time between events in a Poisson process. The exponential distribution is particularly useful in scenarios where events happen independently and at a constant average rate. In this project, you’ll find explanations of the exponential distribution, formulas, practical examples, and Python code implementations.
 
