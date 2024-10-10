@@ -1,5 +1,5 @@
-Exponential Distribution Project
-Overview
+**Exponential Distribution Project**
+
 This project demonstrates the Exponential Distribution, a continuous probability distribution commonly used to model the time between events in a Poisson process. The exponential distribution is particularly useful in scenarios where events happen independently and at a constant average rate. In this project, you’ll find explanations of the exponential distribution, formulas, practical examples, and Python code implementations.
 
 What is the Exponential Distribution?
@@ -30,4 +30,6 @@ Use Cases of Exponential Distribution
 Queueing systems: Time between customer arrivals.
 Reliability analysis: Time until a machine or component fails.
 Survival analysis: Time until an event (e.g., failure or death) occurs in life expectancy studies.
+
+Link to the video:https://drive.google.com/file/d/1Rtj25NtVD3Abx0Pod8Enjoyr1Ii_dRPw/view
 
